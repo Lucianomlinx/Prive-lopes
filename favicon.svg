@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="logoRingGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB300" />
+      <stop offset="35%" stop-color="#FF6D00" />
+      <stop offset="70%" stop-color="#D81B60" />
+      <stop offset="100%" stop-color="#1E88E5" />
+    </linearGradient>
+    <linearGradient id="logoSunGrad" x1="20%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#FFF152" />
+      <stop offset="45%" stop-color="#FFA000" />
+      <stop offset="100%" stop-color="#F4511E" />
+    </linearGradient>
+    <linearGradient id="logoWaveTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#29B6F6" />
+      <stop offset="100%" stop-color="#0277BD" />
+    </linearGradient>
+    <linearGradient id="logoWaveDeep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0288D1" />
+      <stop offset="100%" stop-color="#003C8F" />
+    </linearGradient>
+    <linearGradient id="logoPalmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7CB342" />
+      <stop offset="60%" stop-color="#388E3C" />
+      <stop offset="100%" stop-color="#1B5E20" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#FFFFFF" />
+  <path d="M44 10 A52 52 0 1 1 70 111" fill="none" stroke="url(#logoRingGrad)" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M12 42 A51 51 0 0 0 54 111" fill="none" stroke="#FFA000" stroke-width="2.7" stroke-linecap="round" />
+  <path d="M46 31 C66 23, 93 36, 97 61 C85 52, 72 56, 61 63 C50 70, 41 68, 42 54 C43 44, 49 38, 53 35 C49 34, 46 33, 46 31 Z" fill="url(#logoSunGrad)" />
+  <path d="M35 68 C47 73, 58 66, 70 59 C81 53, 92 54, 98 65 C91 60, 81 61, 70 67 C57 75, 45 81, 32 74 Z" fill="#FF6D00" />
+  <path d="M27 78 C42 86, 57 76, 72 68 C84 61, 94 64, 97 76 C91 71, 82 72, 71 79 C57 87, 42 93, 27 83 Z" fill="url(#logoWaveTop)" />
+  <path d="M31 86 C47 93, 62 84, 76 76 C86 71, 93 74, 94 84 C86 99, 68 106, 49 102 C40 99, 34 93, 31 86 Z" fill="url(#logoWaveDeep)" />
+  <ellipse cx="36" cy="75" rx="11" ry="3.6" fill="#7B4B24" />
+  <path d="M34 75 C27 61, 27 45, 33 31 C35 31, 36 32, 35 34 C30 47, 31 61, 38 75 Z" fill="#6D3B1A" />
+  <path d="M38 75 C35 65, 36 55, 41 47 C42 47, 43 48, 42 49 C38 56, 38 65, 41 75 Z" fill="#8D4E25" />
+  <path d="M33 31 C24 27, 16 31, 13 38 C20 35, 26 34, 33 33 C23 34, 16 40, 15 48 C21 42, 27 38, 33 35 C26 40, 22 47, 23 54 C27 47, 30 41, 34 36 C34 43, 37 49, 42 53 C40 46, 38 40, 36 35 C42 38, 48 42, 52 48 C50 40, 44 34, 36 33 C44 31, 51 33, 56 37 C52 29, 43 26, 35 30 C39 24, 45 21, 51 21 C43 19, 36 23, 34 29 C32 22, 27 18, 20 18 C25 21, 30 25, 33 31 Z" fill="url(#logoPalmGrad)" />
+  <path d="M41 47 C35 45, 30 48, 29 53 C33 50, 37 49, 41 49 C36 51, 34 56, 35 61 C37 56, 39 52, 42 50 C43 54, 46 58, 49 60 C48 55, 46 51, 43 49 C48 50, 52 52, 54 56 C53 50, 48 47, 43 47 C46 43, 50 42, 54 43 C49 40, 44 42, 42 46 C40 42, 36 40, 32 41 C36 43, 39 45, 41 47 Z" fill="#43A047" />
+</svg>
